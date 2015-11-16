@@ -1,0 +1,30 @@
+created: 20150430185153883
+modified: 20150430190154962
+tags: 
+title: TestData2
+type: application/json
+
+{
+  "edges": [ 
+    {
+        "source": "Baingan Bharta",
+        "target": "Baba Ganoush",
+        "id": "1",
+        "size": "0.9"
+    }
+  ],
+
+  "nodes": [
+    {
+      "id": "Baingan Bharta",
+      "name": "Baingan Bharta",
+      "cuisine": "Indian",
+      "size": 300
+    },{
+      "id": "Baba Ganoush",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 200
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+caption: {{$:/core/images/down-arrow}} {{$:/language/Buttons/More/Caption}}
+created: 20150503162834203
+description: {{$:/language/Buttons/More/Hint}}
+modified: 20150503162837072
+tags: $:/tags/ViewToolbar
+title: $:/core/ui/Buttons/more-tiddler-actions
+type: text/vnd.tiddlywiki
+
+\define config-title()
+$:/config/ViewToolbarButtons/Visibility/$(listItem)$
+\end
+ <$list filter="[<storyTiddler>next[$:/StoryList]]" variable = "next">
+<$button class=<<tv-config-toolbar-class>>>
+	<$list filter="[<tv-config-toolbar-icons>prefix[yes]]">
+	{{$:/core/images/down-arrow}}
+	</$list>
+ <$action-navigate $to=<<next>>/>
+</$button>
+</$list>

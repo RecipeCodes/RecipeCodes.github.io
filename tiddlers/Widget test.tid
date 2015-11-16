@@ -1,0 +1,8 @@
+caption: Cuisine Map
+created: 20150418173627303
+modified: 20150502165850003
+tags: $:/tags/SideBar
+title: Widget test
+type: text/vnd.tiddlywiki
+
+<$Sigma data="TestData3" goTo={{$:/temp/focussedTiddler}}/>

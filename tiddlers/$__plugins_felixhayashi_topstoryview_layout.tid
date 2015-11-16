@@ -1,0 +1,10 @@
+created: 20150505164815617
+modified: 20150505165616851
+tags: $:/tags/Stylesheet
+title: $:/plugins/felixhayashi/topstoryview/layout
+type: text/vnd.tiddlywiki
+
+html .tc-story-river:after {
+  content: "";
+  display: block;
+  }

@@ -1,0 +1,115 @@
+created: 20150430163328348
+modified: 20150430185933444
+tags: 
+title: TestData
+type: application/json
+
+{
+  "edges": [ 
+    {
+        "source": "1",
+        "target": "2",
+        "id": "1",
+        "size": "0.9"
+    },{
+        "source": "3",
+        "target": "6",
+        "id": "2",
+        "size": "0.9"
+    },{
+        "source": "4",
+        "target": "6",
+        "id": "3",
+        "size": "0.9"
+    },{
+        "source": "7",
+        "target": "8",
+        "id": "4",
+        "size": "0.9"
+    },{
+        "source": "2",
+        "target": "6",
+        "id": "5",
+        "size": "0.9"
+    },{
+        "source": "10",
+        "target": "8",
+        "id": "6",
+        "size": "0.9"
+    },{
+        "source": "10",
+        "target": "12",
+        "id": "7",
+        "size": "0.9"
+    },{
+        "source": "10",
+        "target": "11",
+        "id": "8",
+        "size": "0.9"
+    }
+  ],
+
+  "nodes": [
+    {
+      "id": "1",
+      "name": "Baingan Bharta",
+      "cuisine": "Indian",
+      "size": 3
+    },{
+      "id": "2",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "3",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "4",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "5",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "6",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "7",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "8",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "9",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "10",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "11",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    },{
+      "id": "12",
+      "name": "Baba Ganoush",
+      "cuisine": "Lebanese",
+      "size": 2
+    }
+  ]
+}

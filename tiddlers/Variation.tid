@@ -1,0 +1,21 @@
+created: 20150505163255098
+modified: 20150505170856751
+tags: 
+title: Variation
+type: text/vnd.tiddlywiki
+
+<div class="tc-link-info">
+
+<$list filter="[tag[Poha]]">
+
+<div class="tc-link-info-item">
+
+! <$link><$view field="title"/></$link>
+
+<div class="tc-subtitle">Posted <$view field="modified" format="relativedate"/></div>
+
+<$transclude/>
+
+</div>
+
+</$list>

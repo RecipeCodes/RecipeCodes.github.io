@@ -1,0 +1,37 @@
+created: 20150503191311068
+modified: 20150505223626027
+tags: $:/tags/Stylesheet
+title: table styles
+type: text/vnd.tiddlywiki
+
+table, table th, table td {
+    border: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: none;
+}
+
+table {
+
+}
+
+div .tc-story-river {
+  padding: 42px 42px 42px 150px;
+}
+.tc-link-info {
+	display: flex;
+  flex-wrap: wrap;
+}
+
+.tc-link-info-item {
+  display: inline-block;
+  border: 1px solid black;
+  padding: 5px 10px;
+  margin-bottom: 10px;
+  margin-right: 10px
+}
+
+.tc-search {
+	zoom :2;
+}

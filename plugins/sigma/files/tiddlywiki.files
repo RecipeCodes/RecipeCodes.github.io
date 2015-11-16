@@ -1,0 +1,22 @@
+{
+	"tiddlers": [
+		{
+			"file": "sigma.min.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/tiddlywiki/sigma/sigma.js",
+				"module-type": "library"
+			}
+		},
+		{
+			"file": "sigma.layout.forceAtlas2.min.js",
+			"fields": {
+				"type": "application/javascript",
+				"title": "$:/plugins/tiddlywiki/sigma/sigma.layout.forceAtlas2.min.js",
+				"module-type": "library"
+			},
+			"prefix": "var force;if($tw.browser){\n",
+			"suffix": "}\nexports.force = force;\n"
+		}
+	]
+}

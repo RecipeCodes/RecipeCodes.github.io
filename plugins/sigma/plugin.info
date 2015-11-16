@@ -1,0 +1,7 @@
+{
+	"title": "$:/plugins/tiddlywiki/sigma",
+	"description": "SigmaJS",
+	"author": "Jayati Ambekar",
+	"core-version": ">=5.0.0",
+	"list": "readme"
+}
